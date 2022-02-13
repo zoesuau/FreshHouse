@@ -1,0 +1,25 @@
+
+body{
+background-image: url(../images/crossword.png);
+}
+
+.h1_text h3{
+    text-align: center;
+   
+    margin-top: 2em;
+}
+
+.icon_box{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 5% auto;
+}
+.icon_box div{
+    margin: 2%;
+
+}
+.icon_box p{
+    padding: 5%;
+}
+
