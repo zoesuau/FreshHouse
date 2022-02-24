@@ -1,8 +1,13 @@
-a {
+.container a {
     text-decoration: none;
     color: black;
 }
 
+
+.container a:hover {
+    text-decoration: none;
+    color: rgb(14, 66, 53);
+}
 ul {
     margin: 0;
     padding: 0;
